@@ -34,8 +34,8 @@
            <!-- Wrapper for slides -->
               <div class="carousel-inner">
                  <div class="item active">
-									<img src="<?php echo base_url('assets/front/images/slider/8.jpg') ?>" alt="0"> 
-						     </div>
+									<center> <img src="<?php echo base_url('assets/front/images/slider/8.jpg') ?>" width="91%" alt="0"> 
+									</center> </div>
 							<div class="item">
 								<img src="<?php echo base_url('assets/front/images/slider/2.jpg') ?>" alt="1">							
 							</div>

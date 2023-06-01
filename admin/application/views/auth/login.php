@@ -22,7 +22,7 @@
 
   <div class="form-body">
     <form action="<?php echo base_url('admin/login/auth'); ?>" method="post" class="col-form" novalidate="" />
-    <div class="col-logo"><img alt="" src="<?php echo base_url('assets/admin/img/logo_sedekah_sore.jpg'); ?>" /></a></div>
+    <div class="col-logo"><img alt="" src="<?php echo base_url('assets/admin/img/logo_sedekah_sore.jpg'); ?>" width="30%" /></a></div>
       <fieldset>
         <section>
           <div class="form-group has-feedback">
