@@ -31,11 +31,11 @@
                             <li>Whatsapp : 0815 1963 9102</li>
                             <br>
                             <h4><b>Daftar Rekening Bank :</b></h4>
-                            <li>BSM       :  708 2604 191    (Sedekah Sore)</li>
+                            <li>BSM       :  492 1018 147    (Sedekah Sore)</li>
                             <br>
                             <li>MUAMALAT  :  701 0055 055    (Sedekah Sore)</li>
                             <br>
-                            <li>MANDIRI   :  142 000 6977 291 (Sedekah Sore)</li>
+                            <li>MANDIRI   :  900 001 2683 430 (Sedekah Sore)</li>
                             <br>
                             <li>BCA      :  5200 242 400    (Sedekah Sore)</li>
                         </div>

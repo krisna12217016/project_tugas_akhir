@@ -34,11 +34,12 @@ class Donatur extends CI_Controller {
 
         $jumlah_donasiStr = str_replace($reg, $regStr, $jumlah_donasi);
 
-        $ktNum = rand(01, 1000);
+        $ktNum = rand(01, 100);
         $d = date('d');
-        $kt = 'SS'.$d.'0'.$ktNum;
+        $m = date('m');
+        $kt = 'SS'.$d.$m.'0'.$ktNum;
         
-        $nominal = $jumlah_donasiStr + rand(01, 999);
+        $nominal = $jumlah_donasiStr + rand(01, 99);
           
         $dataInsert = array(
             
